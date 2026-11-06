@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this companion repository or cite the book, please use the citation below (ISBN and publisher fields will be filled when the Amazon listing goes live)."
+type: book
+title: "The Last Paycheck: Which Jobs AI Is Really Taking, Told in Data"
+authors:
+  - family-names: Khan
+    given-names: Amir
+    orcid: "https://orcid.org/0009-0008-5996-2841"
+# PLACEHOLDERS — APPLICATIONS AND FORMS will supply when the listing is live
+isbn: "TBD"
+publisher: "TBD"
+year: 2026
+url: "TBD — Amazon listing"
+repository-code: "https://github.com/amirator/the-last-paycheck"
+license: MIT
+keywords:
+  - generative AI
+  - labor economics
+  - occupational exposure
+  - employment
+  - job postings
